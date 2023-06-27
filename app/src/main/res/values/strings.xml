@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Examen2</string>
+    <string name="Saissir">Saisir ton nom</string>
+
+    <string-array name="listEtape">
+        <item>Etape 1</item>
+        <item>Etape 2</item>
+        <item>Etape 3</item>
+        <item>Etape 4</item>
+    </string-array>
+
+    <string name="btnSaisir">Saisir les notes des matieres</string>
+    <string name="titreA2">Élaboration du carnet de notes de </string>
+
+    <string name="txtNote1">Saisir la note 1 (20%)</string>
+    <string name="txtNote2">Saisir la note 2 (30%)</string>
+    <string name="txtNote3">Saisir la note 3 (50%)</string>
+
+    <string name="btnAjouter">Ajouter</string>
+    <string name="btnConsulter">Consulter</string>
+
+    <string-array name="listMatieres">
+        <item>Infrastructure et service reseaux</item>
+        <item>Pragramation Multiplataformes</item>
+        <item>Développment de applications mobiles</item>
+        <item>Développment web ASP.NET</item>
+
+    </string-array>
+
+
+</resources>
